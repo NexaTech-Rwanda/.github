@@ -14,10 +14,10 @@ Our vision is to become Rwanda’s leading tech innovation hub — empowering Af
 We design, build, and deploy impactful tech solutions that matter.  
 Here’s what we specialize in:
 
-- 🖥️ **Web Development** – React, Next.js, NestJS, Fastify  
+- 🖥️ **Web Development** – React, Next.js, NestJS, Fastify, SpringBoot, Vue Js  
 - 📱 **Mobile App Development** – React Native, Flutter  
-- ⚙️ **Backend Systems** – Node.js, Prisma ORM, PostgreSQL  
-- ☁️ **Cloud & Infrastructure** – AWS, Vercel, Cloudinary  
+- ⚙️ **Backend Systems** – Node.js, Prisma ORM, PostgreSQL, Drizzle ORM
+- ☁️ **Cloud & Infrastructure** – AWS, Vercel, Cloudinary, Render 
 - 🧠 **AI & Automation** – Smart tools to enhance productivity  
 - 🔐 **Cybersecurity & Verification Systems** – Secure, trusted platforms  
 - 🧩 **IT Consulting & Support** – Helping companies modernize their workflow  
@@ -28,12 +28,12 @@ Here’s what we specialize in:
 
 | Category | Tools & Technologies |
 |-----------|---------------------|
-| Frontend | React, Next.js, Tailwind CSS |
-| Backend | NestJS, Fastify, Node.js |
+| Frontend | React, Next.js, Tailwind CSS, Vue, Svelte|
+| Backend | NestJS, Fastify, Node.js, SpringBoot |
 | Database | PostgreSQL, MongoDB, Prisma ORM |
-| Cloud & Storage | Vercel, Cloudinary, AWS |
-| Mobile | React Native |
-| Tools | GitHub Actions, Docker, Postman, Figma |
+| Cloud & Storage | Vercel, Cloudinary, AWS, Render |
+| Mobile | React Native, Flutter, Swift |
+| Tools | GitHub Actions, Docker, Postman, Figma, Framer, Kubernetes |
 
 
 ---
@@ -51,7 +51,7 @@ Here’s what we specialize in:
 ## 📫 Contact Us
 
 - 🌐 Website: [nexatech-rwanda.vercel.app](https://nexatech-rwanda.vercel.app/)
-- 📧 Email: contact@nexatech.rw 
+- 📧 Email: nexatech317@gmail.com 
 - 📍 Location: Kigali, Rwanda
 - 🐦 Twitter / LinkedIn / Instagram: `@NexaTechRwanda`
 
