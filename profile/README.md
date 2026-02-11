@@ -1,6 +1,6 @@
 # NexaTech Rwanda
 
-**Building Africa’s digital future — one product at a time.**
+**Building Africa’s digital future — with multiple products.**
 
 ---
 
